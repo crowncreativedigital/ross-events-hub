@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Ross Events Hub
  * Description: Centralised event management and REST API for Ross Hospitality Group multi-site event distribution.
- * Version: 1.2.0
- * Author: OpenAI
+ * Version: 1.2.1
+ * Author: Crown Creative
  * Text Domain: ross-events-hub
  * Update URI: https://github.com/crowncreativedigital/ross-events-hub
  */
@@ -12,7 +12,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
-define( 'REH_VERSION', '1.2.0' );
+define( 'REH_VERSION', '1.2.1' );
 define( 'REH_PLUGIN_FILE', __FILE__ );
 define( 'REH_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'REH_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
